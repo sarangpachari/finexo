@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oxanium:wght@200..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    font-family: "Work Sans", sans-serif;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    width: 10px;
+    background-color: rgb(20, 32, 190);
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 10%;
+    background-color: rgb(13, 20, 113);
+}
